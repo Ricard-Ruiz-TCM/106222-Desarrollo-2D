@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae75e7060f76e11448fd62e01dcbb9f1, type: 3}
+  m_Name: 13.RestNode
+  m_EditorClassIdentifier: 
+  _id: 14
+  _speechText: Que eres Andaluz o que? Anda a currar vago
+  _speakerText: "Joder que sue\xF1o dejame cinco minutos m\xE1s"
+  _options:
+  - _text: Aventuras
+    _nextNode: {fileID: 11400000, guid: cec4a1fffa41634468bd46240d875828, type: 2}
+  _parentNode: {fileID: 11400000, guid: 34c19580db958a24492e231e289b7174, type: 2}
+  _canBack: 0

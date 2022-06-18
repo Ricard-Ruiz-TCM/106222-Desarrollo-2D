@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a05a2739bd016247845b66b0bed9dba, type: 3}
+  m_Name: player_equip
+  m_EditorClassIdentifier: 
+  Slots:
+  - _item: {fileID: 11400000, guid: 4e3ce44d767a6e5429c98a19ff31abd2, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 4a40b3a57164bbe408b725eecb251a54, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 15c62951560396547ac3a9496f07af52, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: a3b9a5a026ece1f40bd34787f4df7a5e, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 9e2716fdeea78a549afaa87a3b5f2b93, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 8818702e3655eeb438bfc6f8078a94cb, type: 2}
+    _amount: 1
+  Gold: 0
+  Weight: 274
+  Owner: PlayerEquip

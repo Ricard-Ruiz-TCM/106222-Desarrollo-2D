@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 460ff8ea0cd715b4092385d4e7625ef5, type: 3}
+  m_Name: 2.BuyNode
+  m_EditorClassIdentifier: 
+  _id: 2
+  _speechText: Esto es todo lo que tengo amigo todo a precio de floor.
+  _speakerText: Veamos que tienes a la venta
+  _options:
+  - _text: Equipo
+    _nextNode: {fileID: 11400000, guid: 1bb7950107e8a734484a128e0e5644c6, type: 2}
+  - _text: Comida
+    _nextNode: {fileID: 11400000, guid: 5ef8579d2eab3904ca26cc21d43c84bd, type: 2}
+  - _text: Pociones
+    _nextNode: {fileID: 11400000, guid: 57c5025fed864414da814e9812d955fc, type: 2}
+  _parentNode: {fileID: 11400000, guid: 1bb7950107e8a734484a128e0e5644c6, type: 2}
+  _canBack: 1

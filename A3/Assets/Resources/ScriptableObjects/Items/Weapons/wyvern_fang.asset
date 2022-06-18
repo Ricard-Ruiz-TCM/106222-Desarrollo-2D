@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f0d9c7abb9c50c4aad80ea2b2769887, type: 3}
+  m_Name: wyvern_fang
+  m_EditorClassIdentifier: 
+  Name: Wyvern Fang
+  Type: 2
+  Icon: {fileID: 21300000, guid: 56c56154ba2fb9747bd38495728b8527, type: 3}
+  Weight: 20
+  BuyCost: 3000
+  SellValue: 1500
+  CanStack: 0
+  EType: 1
+  Arm: 19
+  Dmg: 32

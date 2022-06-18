@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a05a2739bd016247845b66b0bed9dba, type: 3}
+  m_Name: shopkeeper_inventory
+  m_EditorClassIdentifier: 
+  Slots:
+  - _item: {fileID: 11400000, guid: cb4d13d2a1d01e54d82395cf0ded7475, type: 2}
+    _amount: 43
+  - _item: {fileID: 11400000, guid: 07b8fd419b2fbff4cb4bf2b8aff68380, type: 2}
+    _amount: 56
+  - _item: {fileID: 11400000, guid: c1495570ae3a864469303c1d7e5cd036, type: 2}
+    _amount: 23
+  - _item: {fileID: 11400000, guid: ff7b7c865fd4fe541985237b873bd23e, type: 2}
+    _amount: 56
+  - _item: {fileID: 11400000, guid: 588946c35c73be24baf8f74359a6737c, type: 2}
+    _amount: 41
+  - _item: {fileID: 11400000, guid: 3fb22ec7b2fcbbb4fac79fc85e0194e4, type: 2}
+    _amount: 66
+  - _item: {fileID: 11400000, guid: 69c0814d325dd7c4da2df892a4fc023b, type: 2}
+    _amount: 12
+  - _item: {fileID: 11400000, guid: 9e2716fdeea78a549afaa87a3b5f2b93, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 91c2794bd26d7f2419894ba60147d089, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 59f73cfb84ad0b24b8807469f0399a48, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 4fd92ddf449aa0643b1b9fba25a598f2, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 856b63c345698c240b32060e147f86d5, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: f2f0fb7aae0f9464e8a144c157fd6e66, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: c7d4a0ce408705e46bf7f55a38984695, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 6278cef1221b74444ba1c88cb6aae757, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 57ee765661f3b8d47976c67f98005c7e, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: ee5f8ed9e4c4af64ebd5ef010994c6d0, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 4a40b3a57164bbe408b725eecb251a54, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 162bd295f118e3e458f77c7c7f7c233d, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 4e3ce44d767a6e5429c98a19ff31abd2, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 15c62951560396547ac3a9496f07af52, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: f679c41c17a56ee4dbd93801722e646e, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 0cae71891c866fb42994fc02adee415c, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 893f2ba4a5a09104ca953b574fd27b8f, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 06e4fac0f274e8c458a406d00867227a, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: a3b9a5a026ece1f40bd34787f4df7a5e, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: 8818702e3655eeb438bfc6f8078a94cb, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: cf0b4c6a21827e2428210f4e3ead2142, type: 2}
+    _amount: 1
+  - _item: {fileID: 11400000, guid: d96d57af81f7353439bcc89a0f79cc6b, type: 2}
+    _amount: 1
+  Gold: 36500
+  Weight: 0
+  Owner: Shopkeeper

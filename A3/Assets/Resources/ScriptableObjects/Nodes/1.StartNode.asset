@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15da4180124abc44db3c93e55ed4f09e, type: 3}
+  m_Name: 1.StartNode
+  m_EditorClassIdentifier: 
+  _id: 1
+  _speechText: Claro aventurero dime que puedo ofrecerte?
+  _speakerText: "Hola tabernero, dejame ver que tienes ah\xED"
+  _options:
+  - _text: Comprar
+    _nextNode: {fileID: 11400000, guid: 65b29ed755a0061408d3637f7f98bc14, type: 2}
+  - _text: Vender
+    _nextNode: {fileID: 11400000, guid: e80ab4e6530af5d48a60a406d61bfd64, type: 2}
+  - _text: Insultar
+    _nextNode: {fileID: 11400000, guid: 422f878b459cb134da58d2b80bce8235, type: 2}
+  - _text: Aventuras
+    _nextNode: {fileID: 11400000, guid: 34c19580db958a24492e231e289b7174, type: 2}
+  _parentNode: {fileID: 11400000, guid: 34c19580db958a24492e231e289b7174, type: 2}
+  _canBack: 0
